@@ -40,11 +40,13 @@
     .quote {
         font-size: 2em;
     }
+
     .intro {
         top: 15%;
         width: 90%;
     }
 }
+
 @media screen and (max-width: 1200px) {
     .quote {
         font-size: 2em;
